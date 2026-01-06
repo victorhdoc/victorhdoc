@@ -26,4 +26,4 @@ For my final project, I developed a **Portable Impedance Analyzer** using the **
 * [LinkedIn](https://www.linkedin.com/in/victor-hugo-de-oliveira-carvalho-46aa43185/)
 * [Email](mailto:carvalho.offcl@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=texspray&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorhdoc&show_icons=true&theme=dark)
