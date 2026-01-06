@@ -26,4 +26,3 @@ For my final project, I developed a **Portable Impedance Analyzer** using the **
 * [LinkedIn](https://www.linkedin.com/in/victor-hugo-de-oliveira-carvalho-46aa43185/)
 * [Email](mailto:carvalho.offcl@gmail.com)
 
-![Metrics](https://metrics.lecoq.io/victorhdoc?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FSao_Paulo)
