@@ -1,6 +1,6 @@
 # Hi there! I'm an Electronic Engineer ⚡
 
-I'm an **Electronic Engineer** with a strong background in **Embedded Systems**, **Hardware Design**, and **Instrumentation**. My passion lies in bridging the gap between analog signals and digital processing.
+I'm an **Electronic Engineer** with a background in **Embedded Systems**, **Hardware Design**, **Automation**, and **Instrumentation**. My passion lies in the core engineering principle: understanding problems deeply to develop robust solutions. Always studying...
 
 ---
 
@@ -20,9 +20,9 @@ For my final project, I developed a **Portable Impedance Analyzer** using the **
 | **Embedded** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 | **Hardware** | ![Altium Designer](https://img.shields.io/badge/altium_designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-3145A0?style=for-the-badge&logo=KiCad&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) |
+
 ---
 
 ### 📫 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/victor-hugo-de-oliveira-carvalho-46aa43185/)
 * [Email](mailto:carvalho.offcl@gmail.com)
-
